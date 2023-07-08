@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO_NAME="athena-repository"
+REPO_NAME="athena-repository-dev"
 
 rm $REPO_NAME*
 
